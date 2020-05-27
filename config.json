@@ -1,6 +1,6 @@
 {
     "siteTitle": "Author's fancy blog",
-    "outputDir": "_site",
+    "outputDir": "docs",
     "copy": {
         "/posts": "/"
     },
