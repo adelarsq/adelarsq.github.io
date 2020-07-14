@@ -1,6 +1,4 @@
-# [Adelar da Silva Queiróz](https://adelarsq.github.io)
-
-I'm a software enginner living on Cascavel, Brazil. 🌎
+My name is Adelar da Silva Queiróz and I'm a software enginner living on Cascavel, Brazil. 🌎
 
 I work with mainly all things related with software (since assembly until frontend). 🧩
 
@@ -38,8 +36,8 @@ I like to stay with my family, to plant bonsai and to play video games. 👶👨
 - [eclipse-gotofile-plugin-kai](https://github.com/adelarsq/eclipse-gotofile-plugin-kai) - Adds fuzzy search ability with project oriented path to Eclipse.
 - [vim-hackernews](https://github.com/adelarsq/vim-hackernews) - Hacker News plugin for Vim.
 - [vim-pomodoro](https://github.com/adelarsq/vim-pomodoro) - Vim plugin for the Pomodoro time management technique.
-- https://github.com/adelarsq/awesome-bugs
-- https://github.com/adelarsq/awesome-make
+- [Awesome Bugs](https://github.com/adelarsq/awesome-bugs)
+- [Awesome Make](https://github.com/adelarsq/awesome-make)
 - [Sublime-Theme-Black-Sidebar-Icons](https://github.com/adelarsq/Sublime-Theme-Black-Sidebar-Icons) - black sidebar theme for Sublime Text 2 with icons.
 - [nerdtree-terminal](https://github.com/adelarsq/nerdtree-terminal)
 - [nerdtree-far](https://github.com/adelarsq/nerdtree-far)
