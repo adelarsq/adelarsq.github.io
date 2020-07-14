@@ -26,6 +26,7 @@ I like to stay with my family, to plant bonsai and to play video games. 👶👨
 ## Curriculum
 
 - [Linkedin](https://www.linkedin.com/in/adelar-da-silva-queir%C3%B3z-158a9125)
+- [Lattes](http://lattes.cnpq.br/3585801413183697)
 
 ## Projects Developed and/or Maintained
 
