@@ -28,7 +28,7 @@ I like to stay with my family, to plant bonsai and to play video games. 👶👨
 - [Linkedin](https://www.linkedin.com/in/adelar-da-silva-queir%C3%B3z-158a9125)
 - [Lattes](http://lattes.cnpq.br/3585801413183697)
 
-## Projects Developed and/or Maintained
+## Open Source Projects Developed and/or Maintained
 
 - [vim-emoji-icon-theme](https://github.com/adelarsq/vim-emoji-icon-theme) - Emoji/Unicode Icons Theme for Vim and NeoVim.
 - [vim-matchit](https://github.com/adelarsq/vim-matchit) - Mirror from the official matchit.vim plugin from the official Vim repository to use with plugin managers.
@@ -40,9 +40,10 @@ I like to stay with my family, to plant bonsai and to play video games. 👶👨
 - [Awesome Bugs](https://github.com/adelarsq/awesome-bugs)
 - [Awesome Make](https://github.com/adelarsq/awesome-make)
 - [Sublime-Theme-Black-Sidebar-Icons](https://github.com/adelarsq/Sublime-Theme-Black-Sidebar-Icons) - black sidebar theme for Sublime Text 2 with icons.
-- [nerdtree-terminal](https://github.com/adelarsq/nerdtree-terminal)
-- [nerdtree-far](https://github.com/adelarsq/nerdtree-far)
-- [nerdtree-fzf](https://github.com/adelarsq/nerdtree-fzf)
+- [nerdtree-terminal](https://github.com/adelarsq/nerdtree-terminal) - plugin for NERDTree that add an option on NERDTree menu to open the terminal on the
+    current folder
+- [nerdtree-far](https://github.com/adelarsq/nerdtree-far) - plugin for NERDTree that add an option on NERDTree menu to Find and Replace functionality
+- [nerdtree-fzf](https://github.com/adelarsq/nerdtree-fzf) - plugin for NERDTree that add an option on NERDTree menu for fuzzy file search
 - [vim-tetris](https://github.com/adelarsq/vim-tetris)
 - [BufJump](https://github.com/adelarsq/BufJump) - Vim plugin to manage jump between buffers
 - [dbunit](https://github.com/adelarsq/dbunit) - dbunit mirror. **No longer maintained**
@@ -50,4 +51,8 @@ I like to stay with my family, to plant bonsai and to play video games. 👶👨
 - [Vim-Tetr1s](https://github.com/adelarsq/Vim-Tetr1s) - Tetris Game for Vim
 - [Snake.vim](https://github.com/adelarsq/Snake.vim) - Snake Game for Vim
 
+## Statistics
+
+- [Wakatime](https://wakatime.com/@f246bf72-3e4d-408c-a080-de85212a5158)
+- [UVA Online Judge](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=20&page=show_authorstats&userid=2235)
 
