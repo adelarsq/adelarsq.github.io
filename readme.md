@@ -2,7 +2,9 @@ My name is Adelar da Silva Queiróz and I'm a software enginner living on Cascav
 
 I work with mainly all things related with software (since assembly until frontend). 🧩
 
-I like to stay with my family, to plant bonsai and to play video games. 👶👨👩👦🌳🕹
+I love my family. 👶👨👩👦
+
+I like to draw, paint, animes, plant bonsais and play online games. 🖼
 
 ## Social
 
@@ -50,9 +52,11 @@ I like to stay with my family, to plant bonsai and to play video games. 👶👨
 - [Vim-Autoclose](https://github.com/adelarsq/Vim-Autoclose) - Inserts matching bracket, paren, brace or quote 
 - [Vim-Tetr1s](https://github.com/adelarsq/Vim-Tetr1s) - Tetris Game for Vim
 - [Snake.vim](https://github.com/adelarsq/Snake.vim) - Snake Game for Vim
+- [vim-grimmjow](https://github.com/adelarsq/vim-grimmjow) - light theme for Vim/NeoVim
 
 ## Statistics
 
 - [Wakatime](https://wakatime.com/@f246bf72-3e4d-408c-a080-de85212a5158)
 - [UVA Online Judge](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=20&page=show_authorstats&userid=2235)
+- [Dota](https://www.dotabuff.com/players/140814703)
 
