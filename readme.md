@@ -2,7 +2,7 @@ My name is Adelar da Silva Queiróz and I'm a software enginner living on Cascav
 
 I work with mainly all things related with software (since assembly until frontend). 🧩
 
-I love my family. 👶👨👩👦
+I love God and my family. 👶👨👩👦
 
 I like to draw, paint, animes, plant bonsais and play online games. 🖼
 
