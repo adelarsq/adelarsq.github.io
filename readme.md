@@ -12,6 +12,7 @@ I like to draw, paint, animes, plant bonsais and play online games. 🖼
 - [Twitter](https://twitter.com/adelarsq)
 - [Reddit](https://www.reddit.com/user/adelarsq)
 - [Hacker News](https://news.ycombinator.com/user?id=adelarsq)
+- [dev.to](https://dev.to/adelarsq)
 
 ## YouTube
 
