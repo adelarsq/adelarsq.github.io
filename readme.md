@@ -37,7 +37,7 @@ I like to draw, paint, animes, plant bonsais and play online games. 🖼
 
 - [vim-emoji-icon-theme](https://github.com/adelarsq/vim-emoji-icon-theme) - Emoji/Unicode Icons Theme for Vim and NeoVim.
 - [vim-matchit](https://github.com/adelarsq/vim-matchit) - Mirror from the official matchit.vim plugin from the official Vim repository to use with plugin managers.
-- [NeoVCS](https://github.com/adelarsq/neovcs.vim) - VCS support for NeoVim.
+- [neovcs.vim](https://github.com/adelarsq/neovcs.vim) - VCS support for NeoVim.
 - [neoline.vim](https://github.com/adelarsq/neoline.vim) - A light status line for NeoVim.
 - [eclipse-gotofile-plugin-kai](https://github.com/adelarsq/eclipse-gotofile-plugin-kai) - Adds fuzzy search ability with project oriented path to Eclipse.
 - [vim-hackernews](https://github.com/adelarsq/vim-hackernews) - Hacker News plugin for Vim.
