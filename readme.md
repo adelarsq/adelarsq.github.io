@@ -33,7 +33,7 @@ I like to draw, paint, animes, plant bonsais and play online games. 🖼
 - [Linkedin](https://www.linkedin.com/in/adelar-da-silva-queir%C3%B3z-158a9125)
 - [Lattes](http://lattes.cnpq.br/3585801413183697)
 
-## Open Source Projects Developed and/or Maintained
+## Open Source Projects Developed, Maintained and/or Contributed
 
 <p align="center">
     <img alt="adelarsq's github stats" src="https://github-readme-stats.vercel.app/api?username=adelarsq&hide=stars&theme=vue&show_icons=true"/>
