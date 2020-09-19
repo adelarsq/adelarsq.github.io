@@ -35,6 +35,14 @@ I like to draw, paint, animes, plant bonsais and play online games. 🖼
 
 ## Open Source Projects Developed and/or Maintained
 
+<p align="center">
+    <img alt="adelarsq's github stats" src="https://github-readme-stats.vercel.app/api?username=adelarsq&hide=stars&theme=vue&show_icons=true"/>
+</p>
+
+<p align="center">
+    <img alt="adelarsq's top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelarsq&layout=compact&theme=vue"/>
+</p>
+
 - [vim-emoji-icon-theme](https://github.com/adelarsq/vim-emoji-icon-theme) - Emoji/Unicode Icons Theme for Vim and NeoVim.
 - [vim-matchit](https://github.com/adelarsq/vim-matchit) - Mirror from the official matchit.vim plugin from the official Vim repository to use with plugin managers.
 - [neovcs.vim](https://github.com/adelarsq/neovcs.vim) - VCS support for NeoVim.
