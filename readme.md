@@ -64,6 +64,7 @@ I like to draw, paint, animes, plant bonsais and play online games. 🖼
 - [Vim-Tetr1s](https://github.com/adelarsq/Vim-Tetr1s) - Tetris Game for Vim
 - [Snake.vim](https://github.com/adelarsq/Snake.vim) - Snake Game for Vim
 - [vim-grimmjow](https://github.com/adelarsq/vim-grimmjow) - light theme for Vim/NeoVim
+- [suave_graphql_sample](https://github.com/adelarsq/suave_graphql_sample) - Suave GraphQL Sample using .NET 5
 
 ## Statistics
 
