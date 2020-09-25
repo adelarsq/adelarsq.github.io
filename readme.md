@@ -1,10 +1,10 @@
-My name is Adelar da Silva Queiróz and I'm a software enginner living on Cascavel, Brazil. 🌎
+My name is Adelar da Silva Queiróz and I'm a software enginner living on Cascavel, Brazil. 
 
-I work with mainly all things related with software (since assembly until frontend). 🧩
+I work with mainly all things related with software (since assembly until frontend). 
 
 I love God and my family. 👶👨👩👦
 
-I like to draw, paint, animes, plant bonsais and play online games. 🖼
+I like to draw, paint, animes, plant bonsais and play online games.
 
 ## Social
 
@@ -33,7 +33,7 @@ I like to draw, paint, animes, plant bonsais and play online games. 🖼
 - [Linkedin](https://www.linkedin.com/in/adelar-da-silva-queir%C3%B3z-158a9125)
 - [Lattes](http://lattes.cnpq.br/3585801413183697)
 
-## Open Source Projects Developed, Maintained and/or Contributed
+## Open Source Projects Developed, Maintained and/or Contributed 🧩
 
 <p align="center">
     <img alt="adelarsq's github stats" src="https://github-readme-stats.vercel.app/api?username=adelarsq&theme=vue&show_icons=true"/>
