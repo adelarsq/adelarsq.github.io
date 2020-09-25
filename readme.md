@@ -36,7 +36,7 @@ I like to draw, paint, animes, plant bonsais and play online games. 🖼
 ## Open Source Projects Developed, Maintained and/or Contributed
 
 <p align="center">
-    <img alt="adelarsq's github stats" src="https://github-readme-stats.vercel.app/api?username=adelarsq&hide=stars&theme=vue&show_icons=true"/>
+    <img alt="adelarsq's github stats" src="https://github-readme-stats.vercel.app/api?username=adelarsq&theme=vue&show_icons=true"/>
 </p>
 
 <p align="center">
