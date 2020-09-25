@@ -43,29 +43,43 @@ I like to draw, paint, animes, plant bonsais and play online games.
     <img alt="adelarsq's top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelarsq&layout=compact&theme=vue"/>
 </p>
 
+### Documentation
+
+- [Awesome Bugs](https://github.com/adelarsq/awesome-bugs)
+- [Awesome Make](https://github.com/adelarsq/awesome-make)
+
+### F#
+
+- [suave_graphql_sample](https://github.com/adelarsq/suave_graphql_sample) - Suave GraphQL Sample using .NET 5
+- [NeoFsharp.vim](https://github.com/adelarsq/neofsharp.vim) - Basic F# support for (neo)vim 
+
+### Java
+
+- [eclipse-gotofile-plugin-kai](https://github.com/adelarsq/eclipse-gotofile-plugin-kai) - Adds fuzzy search ability with project oriented path to Eclipse.
+- [dbunit](https://github.com/adelarsq/dbunit) - dbunit mirror. **No longer maintained**
+
+### Sublime
+
+- [Sublime-Theme-Black-Sidebar-Icons](https://github.com/adelarsq/Sublime-Theme-Black-Sidebar-Icons) - black sidebar theme for Sublime Text 2 with icons.
+
+### Vim/NeoVim
+
 - [vim-emoji-icon-theme](https://github.com/adelarsq/vim-emoji-icon-theme) - Emoji/Unicode Icons Theme for Vim and NeoVim.
 - [vim-matchit](https://github.com/adelarsq/vim-matchit) - Mirror from the official matchit.vim plugin from the official Vim repository to use with plugin managers.
 - [neovcs.vim](https://github.com/adelarsq/neovcs.vim) - VCS support for NeoVim.
 - [neoline.vim](https://github.com/adelarsq/neoline.vim) - A light status line for NeoVim.
-- [eclipse-gotofile-plugin-kai](https://github.com/adelarsq/eclipse-gotofile-plugin-kai) - Adds fuzzy search ability with project oriented path to Eclipse.
-- [vim-hackernews](https://github.com/adelarsq/vim-hackernews) - Hacker News plugin for Vim.
-- [vim-pomodoro](https://github.com/adelarsq/vim-pomodoro) - Vim plugin for the Pomodoro time management technique.
-- [Awesome Bugs](https://github.com/adelarsq/awesome-bugs)
-- [Awesome Make](https://github.com/adelarsq/awesome-make)
-- [Sublime-Theme-Black-Sidebar-Icons](https://github.com/adelarsq/Sublime-Theme-Black-Sidebar-Icons) - black sidebar theme for Sublime Text 2 with icons.
 - [nerdtree-terminal](https://github.com/adelarsq/nerdtree-terminal) - plugin for NERDTree that add an option on NERDTree menu to open the terminal on the
     current folder
 - [nerdtree-far](https://github.com/adelarsq/nerdtree-far) - plugin for NERDTree that add an option on NERDTree menu to Find and Replace functionality
 - [nerdtree-fzf](https://github.com/adelarsq/nerdtree-fzf) - plugin for NERDTree that add an option on NERDTree menu for fuzzy file search
 - [vim-tetris](https://github.com/adelarsq/vim-tetris)
 - [BufJump](https://github.com/adelarsq/BufJump) - Vim plugin to manage jump between buffers
-- [dbunit](https://github.com/adelarsq/dbunit) - dbunit mirror. **No longer maintained**
+- [vim-hackernews](https://github.com/adelarsq/vim-hackernews) - Hacker News plugin for Vim.
+- [vim-pomodoro](https://github.com/adelarsq/vim-pomodoro) - Vim plugin for the Pomodoro time management technique.
 - [Vim-Autoclose](https://github.com/adelarsq/Vim-Autoclose) - Inserts matching bracket, paren, brace or quote 
 - [Vim-Tetr1s](https://github.com/adelarsq/Vim-Tetr1s) - Tetris Game for Vim
 - [Snake.vim](https://github.com/adelarsq/Snake.vim) - Snake Game for Vim
 - [vim-grimmjow](https://github.com/adelarsq/vim-grimmjow) - light theme for Vim/NeoVim
-- [suave_graphql_sample](https://github.com/adelarsq/suave_graphql_sample) - Suave GraphQL Sample using .NET 5
-- [NeoFsharp.vim](https://github.com/adelarsq/neofsharp.vim) - Basic F# support for (neo)vim 
 
 ## Statistics
 
