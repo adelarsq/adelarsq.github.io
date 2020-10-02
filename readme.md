@@ -47,6 +47,7 @@ I like to draw, paint, animes, plant bonsais and play online games.
 ### Documentation
 
 - [Awesome Bugs](https://github.com/adelarsq/awesome-bugs)
+- [Awesome Fable React Native](https://github.com/adelarsq/awesome-fable-react-native)
 - [Awesome Make](https://github.com/adelarsq/awesome-make)
 
 ### F#
