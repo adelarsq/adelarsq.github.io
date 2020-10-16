@@ -25,6 +25,10 @@ I like to draw, paint, animes, plant bonsais and play online games.
 - [Daily Rust](http://daily-rust.github.io)
 - [AdelarSQ Blog](https://adelarsq.blogspot.com)
 
+## Slides
+
+- [Speack Deck](https://speakerdeck.com/adelarsq)
+
 ## Sites
 
 - [RustVids](https://rustvids.github.io)
