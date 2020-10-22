@@ -6,6 +6,11 @@ I love God and my family. 👶👨👩👦
 
 I like to draw, paint, animes, plant bonsais and play online games.
 
+## Sites
+
+- [Daily Tech News](https://daily-tech-news.github.io)
+- [RustVids](https://rustvids.github.io)
+
 ## Social
 
 - [Github](https://github.com/adelarsq)
@@ -28,10 +33,6 @@ I like to draw, paint, animes, plant bonsais and play online games.
 ## Slides
 
 - [Speack Deck](https://speakerdeck.com/adelarsq)
-
-## Sites
-
-- [RustVids](https://rustvids.github.io)
 
 ## Curriculum
 
