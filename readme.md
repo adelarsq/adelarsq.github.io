@@ -1,6 +1,6 @@
 My name is Adelar da Silva Queiróz and I'm a software enginner living on Cascavel, Brazil. 
 
-I work with mainly all things related with software (since assembly until frontend). 
+I work with mainly all things related with software (since assembly until ELM). 
 
 I love God and my family. 👶👨👩👦
 
@@ -20,9 +20,9 @@ I like to draw, paint, animes, plant bonsais and play online games.
 - [StackOverflow](https://stackoverflow.com/users/442923/adelarsq)
 - [dev.to](https://dev.to/adelarsq)
 
-## YouTube
+<!-- ## YouTube -->
 
-- [Dois Minutos Tech](https://www.youtube.com/channel/UCbBWMfw-xk0rbm6_ibsNPjQ)
+<!-- - [Dois Minutos Tech](https://www.youtube.com/channel/UCbBWMfw-xk0rbm6_ibsNPjQ) -->
 
 ## Blogs
 
