@@ -41,7 +41,7 @@ I'm core maintainer from the [Viro Framework](https://github.com/ViroCommunity),
 - [Linkedin](https://www.linkedin.com/in/adelar-da-silva-queir%C3%B3z-158a9125)
 - [Lattes](http://lattes.cnpq.br/3585801413183697)
 
-## Open Source Projects Developed, Maintained and/or Contributed 🧩
+## Open Source Projects
 
 <p align="center">
     <img alt="adelarsq's github stats" src="https://github-readme-stats.vercel.app/api?username=adelarsq&theme=vue&show_icons=true"/>
@@ -50,6 +50,8 @@ I'm core maintainer from the [Viro Framework](https://github.com/ViroCommunity),
 <p align="center">
     <img alt="adelarsq's top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelarsq&layout=compact&theme=vue"/>
 </p>
+
+Following are the list from the open source projects that I did create, maintain and/or contributed.
 
 ### Documentation
 
