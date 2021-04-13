@@ -1,10 +1,10 @@
-My name is Adelar da Silva Queiróz and I'm a software enginner living on Cascavel, Brazil. 
+My name is Adelar da Silva Queiróz and I'm a software enginner living on Realeza, Brazil. 
 
 I work with mainly all things related with software (since assembly until ELM). 
 
 I love God and my family. 👶👨👩👦
 
-I like to draw, paint, animes, plant bonsais and play online games.
+I like to draw, to paint, watch animes, to work with plants, to study physics, to play chess and online games.
 
 I'm core maintainer from the [Viro Framework](https://github.com/ViroCommunity), an open source developer platform for rapidly building AR/VR applications using React Native.
 
