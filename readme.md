@@ -51,6 +51,8 @@ I'm core maintainer from the [Viro Framework](https://github.com/ViroCommunity),
     <img alt="adelarsq's top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelarsq&layout=compact&theme=vue"/>
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=adelarsq)](https://github.com/ryo-ma/github-profile-trophy)
+
 Following are the list from the open source projects that I did create, maintain and/or contributed.
 
 ### Documentation
