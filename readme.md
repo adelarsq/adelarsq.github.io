@@ -28,7 +28,7 @@ I'm core maintainer from the [Viro Framework](https://github.com/ViroCommunity),
 
 ## Blogs
 
-- [Medium](https://medium.com/@adelarsq)
+- [Medium](https://adelarsq.medium.com/)
 - [Daily Rust](http://daily-rust.github.io)
 - [AdelarSQ Blog](https://adelarsq.blogspot.com)
 
