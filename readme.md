@@ -4,7 +4,9 @@ I love God and my family. 👶🏻👨🏻👩🏻👦🏻🐶🐠
 
 I like to draw, to paint, watch animes, to work with plants, to study physics, to play chess and online games.
 
-On software development I work with many things, since assembly until ELM.
+I work with many things related with software development. 🧩
+
+I also have worked with theoretical physics for some time. 🪐
 
 I'm core maintainer from the [Viro Framework](https://github.com/ViroCommunity), an open source developer platform for rapidly building AR/VR applications using React Native.
 
