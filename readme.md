@@ -8,7 +8,7 @@ I work with many things related with software development. 🧩
 
 I also have worked with theoretical physics for some time. 🪐
 
-I'm core maintainer from the [Viro Framework](https://github.com/ViroCommunity), an open source developer platform for rapidly building AR/VR applications using React Native.
+I'm the founder from the [Viro Framework Community](https://github.com/ViroCommunity) initiative, an open source developer platform for rapidly building AR/VR applications using React Native.
 
 ## Sites
 
