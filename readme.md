@@ -1,4 +1,4 @@
-My name is Adelar da Silva Queiróz and I'm a software enginner living on Realeza, Brazil. 
+My name is Adelar da Silva Queiróz and I'm a software enginner living on Atibaia, Brazil. 
 
 I love God and my family. 👶🏻👨🏻👩🏻👦🏻🐇
 
