@@ -18,7 +18,7 @@ I'm the founder from the [Viro Framework Community](https://github.com/ViroCommu
 ## Social
 
 - [Github](https://github.com/adelarsq)
-- [Twitter](https://twitter.com/adelarsq)
+- **Twitter:** [@adelarsq](https://twitter.com/adelarsq) and [@learn_fsharp](https://twitter.com/learn_fsharp)
 - [Reddit](https://www.reddit.com/user/adelarsq)
 - [Hacker News](https://news.ycombinator.com/user?id=adelarsq)
 - [StackOverflow](https://stackoverflow.com/users/442923/adelarsq)
