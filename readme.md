@@ -77,6 +77,10 @@ Following are the list from the open source projects that I did create, maintain
 - [adelarsq/fsharp-cheatsheet](https://github.com/adelarsq/fsharp-cheatsheet) - An updated cheatsheet for F# 🔷
 - [adelarsq/fsharp_vids](https://github.com/adelarsq/fsharp_vids) - Videos about F#
 
+### Dart/Flutter
+
+- [adelarsq/uni_links3](https://github.com/adelarsq/uni_links3) - Flutter plugin for accepting incoming links
+
 ### Java
 
 - [eclipse-gotofile-plugin-kai](https://github.com/adelarsq/eclipse-gotofile-plugin-kai) - Adds fuzzy search ability with project oriented path to Eclipse.
