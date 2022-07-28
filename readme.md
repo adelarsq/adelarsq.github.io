@@ -73,7 +73,7 @@ Following are the list from the open source projects that I did create, maintain
 - [@learn_fsharp](https://twitter.com/learn_fsharp) - Twitter profile to teach F#
 - [suave_graphql_sample](https://github.com/adelarsq/suave_graphql_sample) - Suave GraphQL Sample using .NET 5
 - [NeoFsharp.vim](https://github.com/adelarsq/neofsharp.vim) - Basic F# support for (neo)vim
-- [hotchocolate_fsharp_sample](https://github.com/adelarsq/hotchocolate_fsharp_sample) - GraphQL server using .NET 5, F# and Hot Chocolate 🍫
+- [hotchocolate_fsharp_sample](https://github.com/adelarsq/hotchocolate_fsharp_sample) - GraphQL server using .NET 6, F# and Hot Chocolate 🍫
 - [adelarsq/fsharp-cheatsheet](https://github.com/adelarsq/fsharp-cheatsheet) - An updated cheatsheet for F# 🔷
 - [adelarsq/fsharp_vids](https://github.com/adelarsq/fsharp_vids) - Videos about F#
 - [adelarsq/awesome-fsharp-project-templates](https://github.com/adelarsq/awesome-fsharp-project-templates) - Awesome F# Project Templates
