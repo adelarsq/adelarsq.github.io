@@ -76,6 +76,7 @@ Following are the list from the open source projects that I did create, maintain
 - [hotchocolate_fsharp_sample](https://github.com/adelarsq/hotchocolate_fsharp_sample) - GraphQL server using .NET 5, F# and Hot Chocolate 🍫
 - [adelarsq/fsharp-cheatsheet](https://github.com/adelarsq/fsharp-cheatsheet) - An updated cheatsheet for F# 🔷
 - [adelarsq/fsharp_vids](https://github.com/adelarsq/fsharp_vids) - Videos about F#
+- [adelarsq/awesome-fsharp-project-templates](https://github.com/adelarsq/awesome-fsharp-project-templates) - Awesome F# Project Templates
 
 ### Dart/Flutter
 
