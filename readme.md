@@ -80,7 +80,7 @@ Following are the list from the open source projects that I did create, maintain
 
 ### Dart/Flutter
 
-- [adelarsq/uni_links3](https://github.com/adelarsq/uni_links3) - Flutter plugin for accepting incoming links
+- [adelarsq/uni_links3](https://github.com/adelarsq/uni_links3) - Flutter plugin for accepting incoming links. **No longer maintained**
 
 ### Java
 
