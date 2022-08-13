@@ -113,6 +113,7 @@ Following are the list from the open source projects that I did create, maintain
 - [Vim-Tetr1s](https://github.com/adelarsq/Vim-Tetr1s) - Tetris Game for Vim
 - [Snake.vim](https://github.com/adelarsq/Snake.vim) - Snake Game for Vim
 - [vim-grimmjow](https://github.com/adelarsq/vim-grimmjow) - light theme for Vim/NeoVim
+- [platform.vim](https://github.com/adelarsq/platform.vim) - plugin to identify the current platform and vim compatible editor
 
 ## Statistics
 
