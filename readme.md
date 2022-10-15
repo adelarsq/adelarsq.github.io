@@ -99,8 +99,6 @@ Following are the list from the open source projects that I did create, maintain
 
 - [vim-emoji-icon-theme](https://github.com/adelarsq/vim-emoji-icon-theme) - Emoji/Unicode Icons Theme for Vim and NeoVim.
 - [vim-matchit](https://github.com/adelarsq/vim-matchit) - Mirror from the official matchit.vim plugin from the official Vim repository to use with plugin managers.
-- [neovcs.vim](https://github.com/adelarsq/neovcs.vim) - VCS support for NeoVim.
-- [neoline.vim](https://github.com/adelarsq/neoline.vim) - A light status line for NeoVim.
 - [nerdtree-terminal](https://github.com/adelarsq/nerdtree-terminal) - plugin for NERDTree that add an option on NERDTree menu to open the terminal on the
     current folder
 - [nerdtree-far](https://github.com/adelarsq/nerdtree-far) - plugin for NERDTree that add an option on NERDTree menu to Find and Replace functionality
@@ -114,6 +112,12 @@ Following are the list from the open source projects that I did create, maintain
 - [Snake.vim](https://github.com/adelarsq/Snake.vim) - Snake Game for Vim
 - [vim-grimmjow](https://github.com/adelarsq/vim-grimmjow) - light theme for Vim/NeoVim
 - [platform.vim](https://github.com/adelarsq/platform.vim) - plugin to identify the current platform and vim compatible editor
+
+#### Neovim
+
+- [neoline.vim](https://github.com/adelarsq/neoline.vim) - A light status line for NeoVim.
+- [neovcs.vim](https://github.com/adelarsq/neovcs.vim) - VCS support for NeoVim.
+- [image_preview.nvim](https://github.com/adelarsq/image_preview.nvim) - Image preview based on terminal's Image Protocol support
 
 ## Statistics
 
