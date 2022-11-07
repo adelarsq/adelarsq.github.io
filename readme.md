@@ -113,6 +113,7 @@ Following are the list from the open source projects that I did create, maintain
 - [Snake.vim](https://github.com/adelarsq/Snake.vim) - Snake Game for Vim
 - [vim-grimmjow](https://github.com/adelarsq/vim-grimmjow) - light theme for Vim/NeoVim
 - [platform.vim](https://github.com/adelarsq/platform.vim) - plugin to identify the current platform and vim compatible editor
+- [ignored_files.vim](https://github.com/adelarsq/ignored_files.vim) - plugin to ignore filetypes and buffers for a number of plugins
 
 #### Neovim
 
