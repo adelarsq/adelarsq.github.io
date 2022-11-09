@@ -14,6 +14,8 @@ I also have worked with theoretical physics for some time. 🪐
 
 I'm the founder from the [Viro Framework Community](https://github.com/ViroCommunity) initiative, an open source developer platform for rapidly building AR/VR applications using React Native.
 
+I'm also maintain [Learn F#](https://twitter.com/learn_fsharp), a channel dedicated to teach about [.NET](https://dotnet.microsoft.com) and [F#](https://fsharp.org).
+
 ## Sites
 
 - [Daily Tech News](https://daily-tech-news.github.io)
