@@ -19,7 +19,6 @@ I'm also maintain [Learn F#](https://twitter.com/learn_fsharp), a channel dedica
 ## Sites
 
 - [Daily Tech News](https://daily-tech-news.github.io)
-- [RustVids](https://rustvids.github.io)
 
 ## Social
 
@@ -37,7 +36,6 @@ I'm also maintain [Learn F#](https://twitter.com/learn_fsharp), a channel dedica
 ## Blogs
 
 - [Medium](https://adelarsq.medium.com/)
-- [Daily Rust](http://daily-rust.github.io)
 - [AdelarSQ Blog](https://adelarsq.blogspot.com)
 
 ## Slides
