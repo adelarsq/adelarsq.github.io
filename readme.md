@@ -10,7 +10,7 @@ I like to draw, to paint, watch animes, to work with plants, to study physics, t
 
 I work with many things related with software development. 🧩
 
-I also have worked with theoretical physics for some time. 🪐
+I also work with theoretical physics on my free time. 🪐
 
 I'm the founder from the [Viro Framework Community](https://github.com/ViroCommunity) initiative, an open source developer platform for rapidly building AR/VR applications using React Native.
 
