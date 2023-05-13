@@ -20,6 +20,12 @@ I also work with theoretical physics on my free time. 🪐
 
 I'm the founder from the [Viro Framework Community](https://github.com/ViroCommunity) initiative, an open source developer platform for rapidly building AR/VR applications using React Native.
 
+<p align="center">
+  <a href="https://twitter.com/learn_fsharp">
+    <img height="167"  src="https://github.com/adelarsq/adelarsq.github.io/assets/430272/abf3ad78-355c-4455-bfc1-5f8cc6be266e" alt="Learn F#">
+  </a>
+</p>
+
 I'm also maintain [Learn F#](https://twitter.com/learn_fsharp), a channel dedicated to teach about [.NET](https://dotnet.microsoft.com) and [F#](https://fsharp.org).
 
 ## Sites
