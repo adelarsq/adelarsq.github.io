@@ -12,7 +12,7 @@ I work with many things related with software development. 🧩
 
 I also work with theoretical physics on my free time. 🪐
 
-<p align="center" style="background-color: #CCCCCC;">
+<p align="center">
   <a href="https://virocommunity.github.io/">
     <img src="https://raw.githubusercontent.com/ViroCommunity/virocommunity.github.io/main/viro_community_logo.png" alt="Viro Community logo">
   </a>
