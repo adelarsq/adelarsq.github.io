@@ -83,7 +83,7 @@ Following are the list from the open source projects that I did create, maintain
 - [adelarsq/fsharp-cheatsheet](https://github.com/adelarsq/fsharp-cheatsheet) - An updated cheatsheet for F# 🔷
 - [adelarsq/fsharp_vids](https://github.com/adelarsq/fsharp_vids) - Videos about F#
 - [adelarsq/awesome-fsharp-project-templates](https://github.com/adelarsq/awesome-fsharp-project-templates) - Awesome F# Project Templates
-- [adelarsq/falco_graphql_sample](https://github.com/adelarsq/falco_graphql_sample) - Falco GraphQL Sample using .NET 6
+- [adelarsq/falco_graphql_sample](https://github.com/adelarsq/falco_graphql_sample) - Falco GraphQL Sample using .NET 6 and 7
 
 ### Dart/Flutter
 
