@@ -59,6 +59,8 @@ I'm also maintain [Learn F#](https://twitter.com/learn_fsharp), a channel dedica
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=adelarsq)](https://github.com/ryo-ma/github-profile-trophy)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adelarsq&" alt="adelarsq" /></p>
+
 Following are the list from the open source projects that I did create, maintain and/or contributed.
 
 ### Documentation
