@@ -12,6 +12,12 @@ I work with many things related with software development. 🧩
 
 I also work with theoretical physics on my free time. 🪐
 
+<p align="center" style="background-color: #CCCCCC;">
+  <a href="https://virocommunity.github.io/">
+    <img src="https://raw.githubusercontent.com/ViroCommunity/virocommunity.github.io/main/viro_community_logo.png" alt="Viro Community logo">
+  </a>
+</p>
+
 I'm the founder from the [Viro Framework Community](https://github.com/ViroCommunity) initiative, an open source developer platform for rapidly building AR/VR applications using React Native.
 
 I'm also maintain [Learn F#](https://twitter.com/learn_fsharp), a channel dedicated to teach about [.NET](https://dotnet.microsoft.com) and [F#](https://fsharp.org).
