@@ -85,6 +85,7 @@ Following are the list from the open source projects that I did create, maintain
 - [Awesome Fable React Native](https://github.com/adelarsq/awesome-fable-react-native)
 - [Awesome Make](https://github.com/adelarsq/awesome-make)
 - [Awesome F# em Português](https://github.com/adelarsq/awesome-fsharp-pt)
+- [Awesome Fennel](https://github.com/adelarsq/awesome-fennel)
 
 ### F#
 
