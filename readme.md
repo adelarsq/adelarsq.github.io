@@ -2,7 +2,7 @@
     <a href="https://wakatime.com/@f246bf72-3e4d-408c-a080-de85212a5158"><img src="https://wakatime.com/badge/user/f246bf72-3e4d-408c-a080-de85212a5158.svg" alt="Total time coded since Dec 23 2017" /></a>
 </p>
 
-My name is Adelar da Silva Queiróz and I'm a software engineer living on Atibaia, Brazil. 
+My name is Adelar da Silva Queiróz and I'm a software engineer living on Palmas, Brazil. 
 
 I love God and my family. 👶🏻👨🏻🤱🏻👦🏻
 
