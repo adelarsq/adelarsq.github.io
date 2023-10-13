@@ -1,5 +1,7 @@
 <p align="center">
     <a href="https://wakatime.com/@f246bf72-3e4d-408c-a080-de85212a5158"><img src="https://wakatime.com/badge/user/f246bf72-3e4d-408c-a080-de85212a5158.svg" alt="Total time coded since Dec 23 2017" /></a>
+    <a href="https://profile.codersrank.io/user/adelarsq"><img src="https://img.shields.io/badge/-codersrank-0077b5?style=round-square&logo=codersrank&logoColor=white&link=https://profile.codersrank.io/user/adelarsq/" alt="Coders Rank" />
+    </a>
 </p>
 
 My name is Adelar da Silva Queiróz and I'm a software engineer living in Palmas, Brazil. 
