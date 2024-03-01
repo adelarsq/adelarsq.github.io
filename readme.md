@@ -30,6 +30,11 @@ I'm the founder from the [Viro Framework Community](https://github.com/ViroCommu
 
 I'm also maintain [Learn F#](https://twitter.com/learn_fsharp), a channel dedicated to teach about [.NET](https://dotnet.microsoft.com) and [F#](https://fsharp.org).
 
+## Curriculum
+
+- [Linkedin](https://www.linkedin.com/in/adelar-da-silva-queir%C3%B3z-158a9125)
+- [Lattes](http://lattes.cnpq.br/3585801413183697)
+
 ## Sites
 
 - [Daily Tech News](https://daily-tech-news.github.io)
@@ -55,11 +60,6 @@ I'm also maintain [Learn F#](https://twitter.com/learn_fsharp), a channel dedica
 ## Slides
 
 - [Speack Deck](https://speakerdeck.com/adelarsq)
-
-## Curriculum
-
-- [Linkedin](https://www.linkedin.com/in/adelar-da-silva-queir%C3%B3z-158a9125)
-- [Lattes](http://lattes.cnpq.br/3585801413183697)
 
 ## Open Source Projects
 
