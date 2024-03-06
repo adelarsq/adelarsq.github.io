@@ -15,14 +15,6 @@ I work with many things related with software development. 🧩
 I also work with theoretical physics on my free time. 🪐
 
 <p align="center">
-  <a href="https://virocommunity.github.io/">
-    <img src="https://raw.githubusercontent.com/ViroCommunity/virocommunity.github.io/main/viro_community_logo.png" alt="Viro Community logo">
-  </a>
-</p>
-
-I'm the founder from the [Viro Framework Community](https://github.com/ViroCommunity) initiative, an open source developer platform for rapidly building AR/VR applications using React Native.
-
-<p align="center">
   <a href="https://twitter.com/learn_fsharp">
     <img height="167"  src="https://github.com/adelarsq/adelarsq.github.io/assets/430272/abf3ad78-355c-4455-bfc1-5f8cc6be266e" alt="Learn F#">
   </a>
@@ -63,21 +55,45 @@ I'm also maintain [Learn F#](https://twitter.com/learn_fsharp), a channel dedica
 
 ## Open Source Projects
 
-<p align="center">
-    <img alt="adelarsq's github stats" src="https://github-readme-stats.vercel.app/api?username=adelarsq&theme=vue&show_icons=true"/>
-</p>
+<div align="">
+  <a a href="https://adelarsq.github.io/">
+      <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelarsq&layout=compact&langs_count=30" />
+      <img height="150" src="https://github-readme-stats.vercel.app/api?username=adelarsq&show_icons=true" />
+      <br>
+      <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=adelarsq&" alt="adelarsq" />
+  </a>
+</div>
 
-<p align="center">
-    <img alt="adelarsq's top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelarsq&layout=compact&theme=vue"/>
-</p>
+## Tecnologies
 
-<p align="center">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=adelarsq" alt="Trophy made by ryo-ma. Thanks!" />
-</p>
-    
-<p align="center">    
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adelarsq&" alt="adelarsq" />
-</p>
+### Languages
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="F#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fsharp/fsharp-original.svg">
+  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="GO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
+  <img align="center" alt="Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg">
+  <img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+</div>
+
+### Databases
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Postgress" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="MariaDB" height="30" width="40" src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png">
+  <img align="center" alt="Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Cassandra" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cassandra/cassandra-original.svg">
+</div>
+
+<br>
 
 Following are the list from the open source projects that I did create, maintain and/or contributed.
 
