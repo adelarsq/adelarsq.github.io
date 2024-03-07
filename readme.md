@@ -12,7 +12,7 @@ I like to draw, to paint, watch animes, to work with plants, to study physics, t
 
 I work with many things related with software development. 🧩
 
-I also work with theoretical physics on my free time. 🪐
+I also study theoretical physics on my free time. 🪐
 
 <p align="center">
   <a href="https://twitter.com/learn_fsharp">
