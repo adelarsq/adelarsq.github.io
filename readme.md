@@ -4,7 +4,7 @@
     </a>
 </p>
 
-My name is Adelar da Silva Queiróz and I'm a software engineer living in Palmas, Brazil. 
+My name is Adelar da Silva Queiróz and I'm a software engineer living in Brazil. 
 
 I love God and my family. 👶🏻👨🏻🤱🏻👦🏻
 
