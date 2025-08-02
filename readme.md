@@ -8,7 +8,7 @@ My name is Adelar da Silva Queiróz and I'm a software engineer living in Brazil
 
 I love God and my family. 👶🏻👨🏻🤱🏻👦🏻
 
-I like to draw, to paint, watch animes, to work with plants, to study physics, to play chess and online games.
+I like to draw, to paint, animes, gardening, physics, chess and online games.
 
 I work with many things related with software development. 🧩
 
