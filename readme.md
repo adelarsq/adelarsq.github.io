@@ -154,9 +154,10 @@ Following are the list from the open source projects that I did create, maintain
 
 #### Neovim
 
-- [neoline.vim](https://github.com/adelarsq/neoline.vim) - A light status line for NeoVim.
+- [neoline.vim](https://github.com/adelarsq/neoline.vim) - A light status line for NeoVim
 - [neovcs.vim](https://github.com/adelarsq/neovcs.vim) - VCS support for NeoVim.
 - [image_preview.nvim](https://github.com/adelarsq/image_preview.nvim) - Image preview based on terminal's Image Protocol support
+- [bar.nvim](https://github.com/adelarsq/bar.nvim) - A really light statusline/tabline/winbar plugin for Neovim using Lua
 
 ## Statistics
 
